@@ -1,7 +1,7 @@
 <template>
     <div id = "picture">
         <a href="https://item.jd.com/59788697903.html">
-          <img src="@/pages/page2/手机图片/华为nova5i手机现货速发苏音蓝全网通（8GB+128GB）.jpg" >
+          <img src="@/assets/手机图片/华为nova5i手机现货速发苏音蓝全网通（8GB+128GB）.jpg" >
           <p>华为nova5i</p>
         </a>
     </div>
@@ -15,8 +15,6 @@ export default {
 
 <style scoped>
 #picture{
-    width: 50px;
-    height: 50px;
     margin: 0 auto;
     text-align: center;
     float: left;

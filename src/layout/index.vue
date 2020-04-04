@@ -1,7 +1,7 @@
 <template>
   <div id="app"> 
     <div class="app1" >
-       <router-link to="/home"><p>商城首页</p></router-link>     
+       <router-link to="/JD"><p>商城首页</p></router-link>     
 
         <router-link to="/pages">商品数据分析</router-link>
       <br>
@@ -10,7 +10,7 @@
         <li>
             <span>热销商品</span>
             <ul class="sub_menu">
-                <li><router-link to="/page2">手机</router-link></li>
+                <li><router-link to="/phone">手机</router-link></li>
                 <li>电脑</li>
             </ul>
     </li>
