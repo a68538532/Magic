@@ -42,6 +42,7 @@ body,html{
   text-align: center;
   height: 100%;
   overflow: hidden;
+  margin: 0 auto
 }
 .p{
     color: #42b983;
