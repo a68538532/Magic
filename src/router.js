@@ -12,12 +12,16 @@ export default new Router({
       component: ()=>import('@/layout'),
         children:[
           {
-            path:'pages',
+            path:'page1',
             component: ()=>import('@/pages/page1/echar.vue')
           },
           {
             path:'home',
             component: ()=>import('@/pages/home/JD.vue')
+          },
+          {
+            path:'page2',
+            component: ()=>import('@/pages/page2/phone.vue')
           }
         ]
     } 
