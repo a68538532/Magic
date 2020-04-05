@@ -18,3 +18,5 @@ var resolve = path.resolve
         app.use('/api/' + routerPath, router)
     })
 })()
+
+app.apprun(8080)
