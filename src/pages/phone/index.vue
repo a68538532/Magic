@@ -18,8 +18,7 @@ export default {
       list: [
         {
           url: "https://item.jd.com/59788697903.html",
-          img:
-            "https://i2.hdslb.com/bfs/archive/8738634e09b214d6b47144acfd9e62f387b174dd.jpg@412w_232h_1c_100q.jpg",
+          img:"http://localhost:3000/api/file/%E5%8D%8E%E4%B8%BAmate30RS5G%E7%89%88%E4%BF%9D%E6%97%B6%E6%8D%B7%E9%99%90%E9%87%8F%E7%89%88%E6%89%8B%E6%9C%BA%E7%8E%84%E9%BB%9112GB+512GB%E5%85%A8%E7%BD%91%E9%80%9A.jpg",
           title: "华为nova5i"
         },
         {
